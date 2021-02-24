@@ -1,0 +1,5 @@
+torch
+jupyter
+tqdm
+pandas
+matplotlib
