@@ -3,3 +3,5 @@ jupyter
 tqdm
 pandas
 matplotlib
+
+umap-learn[plot]
